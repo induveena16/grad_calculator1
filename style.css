@@ -1,0 +1,46 @@
+.main{
+    width:97vw;
+    height: 98vh;
+    display: flex;
+    align-items: center; 
+    justify-content: center;  
+    background-color: beige ;
+}
+
+.card{
+    height:362px;
+    width:35%;
+    display: flex;
+    border-radius: 10px;
+    border: 1px solid lightsalmon;
+    
+}
+
+#left{
+    
+    height:362px;
+    width:45%;
+    background-color: silver;
+    padding-left: 30px;
+    
+    
+}
+
+#right{
+    
+    height:300px;
+    width:39%;
+    background-color: wheat;
+    align-items: center;
+    justify-content: center;
+    padding-left: 60px;
+    padding-top: 60px;   
+}
+#Myinput{
+    width: 110px;
+    height: 15px;
+    border-radius: 20px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
